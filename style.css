@@ -93,6 +93,7 @@ padding-bottom: 15px;
 
 .mains-list p{
     text-decoration: none;
+    background-color: black;
     font-size: 17px;
     font-style: oblique;
     color: white;
@@ -100,11 +101,12 @@ padding-bottom: 15px;
 .home-menu{
     text-decoration: none;
     text-transform: uppercase;
-    color: yellow;
+    color: rgb(206, 185, 197);
     font-size: 18px;
     font-weight:bold;
     text-align: center;
-    border: 4px solid yellow;
+    background-color: black;
+    border: 4px solid rgb(5, 5, 1);
 
     display: block;
     margin: auto;
@@ -150,6 +152,7 @@ padding-bottom: 15px;
     font-size: 17px;
     font-style: oblique;
     color: white;
+    background-color: black;
 }
 
 /*==========  DESSERTS ==========*/
@@ -170,6 +173,7 @@ padding-bottom: 15px;
 }
 .desserts-list a{
     text-decoration: none;
+    background-color: black;
 
 }
 .desserts-list h2{
@@ -189,7 +193,8 @@ padding-bottom: 15px;
 .drinks-list{
     text-decoration: none;
     text-transform: uppercase;
-    color: rgb(14, 14, 10);
+    background-color: black;
+    color: rgb(235, 235, 229);
     font-size: 18px;
     font-weight:bold;
     text-align: center;
